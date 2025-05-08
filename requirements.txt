@@ -1,10 +1,11 @@
 streamlit>=1.26.0
-import streamlit as st
-import cv2
-import pandas as pd
-import numpy as np
-from ultralytics import YOLO
-import tempfile
-import os
-from PIL import Image
+cv2
+pandas
+numpy 
+ultralytics
+YOLO
+tempfile
+os
+PIL
+Image
 
