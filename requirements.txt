@@ -1,11 +1,7 @@
-streamlit>=1.26.0
-cv2
-pandas
-numpy 
-ultralytics
-YOLO
-tempfile
-os
-PIL
-Image
+streamlit==1.32.2
+opencv-python-headless==4.9.0.80
+pandas==2.2.1
+numpy==1.26.4
+ultralytics==8.1.0
+Pillow==10.2.0
 
